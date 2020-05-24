@@ -1,0 +1,404 @@
+- StartDate
+	- Object representing the start time of the survey
+	- Time in UTC
+
+- EndDate
+	- Object representing the end time of the survey
+	- Time in UTC
+
+- Which of the following best describes your current relationship staus?
+	- Possible values are:
+		- Single
+		- Married
+		- Separated
+		- In a domestic partnership or civil union
+		- Widowed
+
+- How long have you been in your current relationship? If you are not currently in a relationship, please answer according to your last relationship.
+	- Possible values are:
+		- Less than 1 year
+		- 1 - 5 years
+		- 6 - 10 years
+		- 11 - 15 years
+		- 16 - 20 years
+		- More than 20 years
+
+- When both you and your partner are at home, how often do you sleep in separate beds?
+	- Possible values are:
+		- Never
+		- Once a year or less
+		- Once a month or less
+		- Every night
+		- A few times per week
+		- A few times per month
+
+- When you're not sleeping in the same bed as your partner, where do you typically sleep?
+	- Possible values are:
+		- I sleep in our shared bed, my partner is the one who sleeps somewhere else
+		- On the couch / chair
+		- Other (please specify)
+		- Seperate bedroom
+		- Shared bedroom, but one of us sleeps on the floor
+		- Shared bedroom, different bed
+
+- Unnamed: 6
+	- Possible values are:
+		- Always in the same bed
+		- At my own home
+		- Back room used as office
+		- Couch
+		- Floor
+		- Guest House
+		- Guest Room when visiting out of town
+		- I live at home
+		- I sleep on the floor in a different room
+		- I sleep on the living room floor
+		- In the bed in our child's room
+		- Kid's bed
+		- Kid's room
+		- Living room floor or couch
+		- Never
+		- Other (please specify)
+		- Out of town
+		- We alternate, one in main bed, one on couch
+		- partner is out of own, hospital etc
+		- with the kids
+		- This does not occur
+		- spare room in the basement 
+		- In the bed in our child's room to assist when child is fussy.
+		- Out of town location
+		- With the baby in her room
+		- we don't have differnt
+		- porch in the wind
+		- same bed
+
+- When you're not sleeping in the same bed, where does your partner typically sleep?
+	- Possible values are:
+		- My partner sleeps in our shared bed, I'm the one who sleeps somewhere else
+		- Separate bedroom
+		- Other (please specify)
+		- On the couch/chair
+		- Shared bedroom, different bed
+		- Shared bedroom, but one of us sleeps on the floor
+
+- Unnamed: 8
+	- Possible values are:
+		- We alternate, one in main bed, one on couch
+		- He has his own house
+		- see above 
+		- with kids
+		- one or the other may sleep in the chair if we don't feel good
+		- Same as above
+		- hotel
+		- Couch
+		- At her own home
+		- In the bed in our child's room to assist when child is fussy
+		- Out of town location
+		- master bedroom
+		- With the baby in her room
+		- One of us sleeps in our bed. One sleeps on couch in separate room depending upon which of us is unable to sleep.
+		- I AM SLEEPING IN A HOSPITAL BED
+		- his parents house
+		- Trailer house in next lot
+		- Basement
+		- Elsewhere away from home
+		- always sleep in same bed
+		- same bed
+
+- What are the reasons that you sleep in separate beds? Please select all that apply.
+	- Possible values are:
+		- One of us snores
+
+- Unnamed: 10
+	- Possible values are:
+		- One of us makes frequent bathroom trips in the night
+
+- Unnamed: 11 
+	- Possible values are:
+		- One of us is sick
+
+- Unnamed: 12:
+	- Possible values are:
+		- We are no longer physically intimate
+
+- Unnamed: 13
+	- Possible values are:
+		- We have different temperature preferences for the room
+
+- Unnamed: 14
+	- Possible values are:
+		- We've had an argument or fight
+
+- Unnamed: 15
+	- Possible values are:
+		- Not enough space
+
+- Unnamed: 16
+	- Possible values are:
+		- Do not want to share the covers
+
+- Unnamed: 17 
+	- Possible values are:
+		- One of us needs to sleep with a child
+
+- Unnamed: 18 
+	- Possible values are:
+		- Night working/very different sleeping times
+
+- Unnamed: 19
+	- Possible values are:
+		- Other (please specify)
+
+- When was the first time you slept in separate beds? 
+	- Possible Values are: 
+		- Within the first 1-5 years of our relationship
+ 		- Immediately/ We've always slept in separate beds
+ 		- Within 6-10 years of our relationship
+ 		- Within 11-15 years of our relationship
+ 		- After 20 years of our relationship
+ 		- Within 16-20 years of our relationship
+
+- To what extent do you agree with the following statement: "sleeping in separate beds helps us to stay together."
+	- Possible values are: 
+		- Strongly disagree
+		- Somewhat agree
+		- Neither agree nor disagree 
+		- Strongly agree 
+		- Somewhat disagree
+
+- To what extent do you agree with the following statement: "we sleep better when we sleep in separate beds." 
+	- Possible values are:
+		- Response
+		- Somewhat agree
+		- Strongly agree
+		- Neither agree nor disagree 
+		- Somewhat disagree
+		- Strongly disagree
+
+- To what extent do you agree with the following statement: "our sex life has improved as a result of sleeping in separate beds."
+	- Possbile values are:
+		- Response
+		- Strongly disagree
+		- Somewhat disagree
+		- Somewhat agree
+		- Neither agree nor disagree
+		- Strongly agree
+
+- Which of the following best describes your current occupation?
+	Possible values are:
+		- Other (please specify)
+		- Healthcare Support Occupations
+		- Legal Occupations
+		- Life, Physical, and Social Science Occupations
+		- Office and Administrative Support Occupations
+		- Arts, Design, Entertainment, Sports, and Media Occupations
+		- Healthcare Practitioners and Technical Occupations
+		- Building and Grounds Cleaning and Maintenance Occupations
+		- Protective Service Occupations
+		- Business and Financial Operations Occupations
+		- Installation, Maintenance, and Repair Occupations
+		- Education, Training, and Library Occupations
+		- Construction and Extraction Occupations
+		- Sales and Related Occupations
+		- Computer and Mathematical Occupations
+		- Transportation and Materials Moving Occupations
+		- Architecture and Engineering Occupations
+		- Food Preparation and Serving Related Occupations
+		- Farming, Fishing, and Forestry Occupations
+		- Management Occupations
+		- Production Occupations
+		- Community and Social Service Occupations
+		- Personal Care and Service Occupations
+
+- Unnamed: 25
+	- Possible values are:
+		- Other (please specify)
+		- Student
+		- Technology Consultant
+		- retired
+		- fire service
+		- Aviation customer service
+		- Retired Military
+		- Data Entry for a Marketing Company
+		- Property Management; Desk Clerk
+		- All of the above: Homemaker
+		- Retired
+		- military
+		- Energy (Natural Gas Storage)
+		- i'm disabled
+		- Retired
+		- Law Enforcement
+		- Cosemtologist
+		- Non-profit Management
+		- Small business owner 
+		- Homemaker
+		- disabled 
+		- Environmental consultants
+		- Securities compliance
+		- police officer
+		- law enforcement
+		- unemployed and looking for work
+		- Telecommunications
+		- Wood product industry- manufacturing
+		- librarian
+		- Retired Management
+		- police
+		- Caregiver
+		- Flight Instructor
+		- Retired. do babysit for my grandchild but not for money.
+		- government grant
+		- Stay at home parent
+		- Locksmith
+		- Management & Community Development Consultant
+		- Speculator
+		- Government 
+		- outdoor power equipment sales and service
+		- Semi-retired
+		- Pet Care
+		- telecomunication
+		- Research
+		- Agricultural business
+		- disabled student
+		- maintenance
+		- education
+		- Laid off from Computer and Mathematical Occupations
+		- Unemployed
+		- state employment
+		- Pastor, ministry related occupation
+		- nonprofit
+		- IT Consultant
+		- bartender
+		- both retired
+		- Biotechnology
+		- campground owner and small business owner
+		- Compliance and Training Specialist
+		- non profit
+		- research
+		- MANUFACTURING
+		- Dietary
+		- Unemployed/retired; Grassroots activist
+		- Transcription
+		- fire department
+		- dog groomer
+		- research regulation
+		- Volunteer with animal welfare nonprofits
+		- Retired from substance abuse counseling.
+		- Public safety
+		- Public Health 
+		- We are both retired
+		- Small Business Owner
+		- Volunteer for animal welfare nonprofits
+		- Writing and editing, self-employed
+		- Occupational Health and Safety
+		- Human Resources
+		- graduate student
+		- Semi-retired Job-Shop
+		- Customer Service
+		- retired educator 
+		- homemaker
+		- Pastoral Care and Relgiouls Studies
+		- Retired from medical device clinical trials but do consulting
+		- Investment management
+		- retired/volunteer
+		- Safety and Occupational Health
+		- Retired!
+		- Commercial real estate
+		- boatbuilder repair
+		- Currently a stay-at-home mother
+		- government
+		- interior design
+		- Retired1
+		- Product development
+		- Law enforcement
+		- TEXTILES
+		- Information Technology
+		- Avocational job-shop (machinist)
+		- Domestic specialist
+		- Manufacturing
+		- Gas attendant.
+		- Religious Education
+		- DISBLED
+		- Translator and editor
+		- A/V Consultant
+		- RETIRED
+		- DISABLED
+		- Education Non-Profit/National Service - teaching
+		- horticulture
+		- sAFETY
+		- Administrative Assistant
+		- retire
+		- bio-medical technician
+		- unemployed
+		- ret.
+		- Financial advisor
+		- Social science researcher
+		- homemake and homeschool teacher
+		- Government, public sector, Dept. of Motor Vehicles clerk
+		- retired engineer
+		- Carpentry' 
+		- Mom and housewife
+		- Disabled,  unemployed
+		- veterinary
+		- Airlines
+		- Planning
+		- Housekeeper
+		- Housekeeping supervisor
+		- stay at home mom
+		- goverment
+		- Environmental Consulting
+		- Physical Service / Trade - Dog Grooming
+		- global health, management consulting
+		- real estate appraisal
+		- Retired Christian Pastor
+		- caregiver for disabled husband and child
+		- JjANITORIAL
+		- Child care 
+		- Product Design Consultant
+		- consulting
+		- Stay at home mom
+		- Mother
+		- Medical Research
+		- Metropolitan Planning
+		- stay at home mother
+		- Utilities
+		- not employed
+
+- Gender 
+	- Possible values are:
+		- Male
+		- Female
+
+- Age
+	- Possible values are:
+		- 18-29
+		- 45-60
+		- > 60
+		- 30-44
+
+- Household Income are
+	- Possible values are:
+		- $0 - $24,999
+		- $150,000+
+		- $25,000 - $49,999
+		- $100,000 - $149,999
+		- $50,000 - $99,999
+
+- Education
+	- Possible values are:
+		- Some college or Associate degree
+		- Bachelor degree
+		- Graduate degree
+		- High school degree
+		- Less than high school degree
+
+- Location (Census Region)
+	- Possible values are:
+		- Pacific
+		- South Atlantic
+		- Middle Atlantic
+		- East North Central
+		- Mountain
+		- West North Central
+		- New England
+		- East South Central
+		- West South Central
