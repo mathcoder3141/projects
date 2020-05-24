@@ -185,7 +185,7 @@
 		- Strongly agree
 
 - Which of the following best describes your current occupation?
-	Possible values are:
+	- Possible values are:
 		- Other (please specify)
 		- Healthcare Support Occupations
 		- Legal Occupations
