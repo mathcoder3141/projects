@@ -372,7 +372,7 @@
 	- Possible values are:
 		- 18-29
 		- 45-60
-		- > 60
+		- \> 60
 		- 30-44
 
 - Household Income are
