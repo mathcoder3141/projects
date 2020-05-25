@@ -375,7 +375,7 @@
 		- \> 60
 		- 30-44
 
-- Household Income are
+- Household Income
 	- Possible values are:
 		- $0 - $24,999
 		- $150,000+
