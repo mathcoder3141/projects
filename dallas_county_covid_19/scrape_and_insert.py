@@ -5,6 +5,7 @@ import os
 import datetime
 from contextlib import contextmanager
 from bs4 import BeautifulSoup
+import re
 
 # url to scrape
 DCHHS_URL = 'https://www.dallascounty.org/departments/dchhs/2019-novel-coronavirus.php'
@@ -18,7 +19,7 @@ paragraph_tags = soup.find_all('p')
 statement = paragraph_tags[5].text.split(' ')
 
 # statistics
-NEW_CASES = int(statement[15]) 
+NEW_CASES = int(re.search(r"\d{1,3}(?=.additional)", paragraph_tags[5].text).group())
 TOTAL_DEATHS = int(statement[-2])
 TOTAL_CASES = int(statement[-4].replace(",", ""))
 image_tags = soup.find_all("img")
