@@ -1,3 +1,5 @@
+#!/home/randall/anaconda3/bin/python
+
 import requests
 import time
 import psycopg2
@@ -18,10 +20,13 @@ soup = BeautifulSoup(DCHHS_HTML.text, "html.parser")
 paragraph_tags = soup.find_all('p')
 statement = paragraph_tags[5].text.split(' ')
 
+TABLE_TAGS = soup.find_all("table")
+COVID_STATISTICS = TABLE_TAGS[1].find_all('td')
+
 # statistics
 NEW_CASES = int(re.search(r"\d{1,3}(?=.additional)", paragraph_tags[5].text).group())
-TOTAL_DEATHS = int(statement[-2])
-TOTAL_CASES = int(statement[-4].replace(",", ""))
+TOTAL_DEATHS = int(COVID_STATISTICS[-2].text)
+TOTAL_CASES = int(COVID_STATISTICS[-3].text.replace("*", "").replace(",", "").strip())
 image_tags = soup.find_all("img")
 RISK_LEVEL = image_tags[-5]['title'].split('-')[-1].strip().lower()
 CURRENT_TIMESTAMP = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')
